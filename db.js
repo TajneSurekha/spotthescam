@@ -1,8 +1,8 @@
 const mongoose = require("mongoose");
-const username = "user";
-const password = "user";
-const cluster = "cluster0.4xf9c";
-const dbname = "spotscam";
+const username = "*****";
+const password = "*****";
+const cluster = "*****";
+const dbname = "*****";
 
 mongoose.connect(
   `mongodb+srv://${username}:${password}@${cluster}.mongodb.net/${dbname}?retryWrites=true&w=majority`,

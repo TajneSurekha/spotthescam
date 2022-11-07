@@ -3,7 +3,7 @@
     "url": "https://jspell-checker.p.rapidapi.com/check",
     "headers": {
       "content-type": "application/json",
-      "X-RapidAPI-Key": "bbbbbef01fmshf5d372f67c4c8bfp108265jsn98a0bdb9db66",
+      "X-RapidAPI-Key": "*****",
       "X-RapidAPI-Host": "jspell-checker.p.rapidapi.com",
       "useQueryString": true
     },
